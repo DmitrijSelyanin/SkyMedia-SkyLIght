@@ -8,5 +8,5 @@ SkyMedia SkyLight is a proprietary, free‑to‑use browser engineered for clari
 - Extension System (.skyext) — Inject CSS, run JavaScript, block hosts, or add context menus with such ease that even your grandma could do it if she was alive.
 - Accessible Innovation — The extension format is so straightforward that even your grandmother could author one — and she might just surprise you with a custom ad‑blocker.
 - Performance First — Lightweight, event‑driven architecture with no telemetry, no forced integration, and no unnecessary processes.
-- Sovereign Distribution — Free for all to use, but proprietary by design; the source remains sealed to preserve lineage and integrity.
-SkyLight is more than a browser — it is a professional vessel for those who value authenticity, precision, and a touch of wit in their digital tools.
+- Controlled Distribution — Free for all to use, but proprietary by design; the source remains on one device to preserve uniqueness and authenticity.
+SkyLight is more than a browser — it is a professional program for those who value authenticity, precision, and a touch of wit in their digital tools.
